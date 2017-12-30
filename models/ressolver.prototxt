@@ -1,0 +1,4 @@
+train_net:"./models/ResNet.prototxt"
+momentum:0.900000
+weight_decay:0.000500
+type:"Adam"
